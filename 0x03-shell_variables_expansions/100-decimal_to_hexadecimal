@@ -1,2 +1,2 @@
 #!/bin/bash
-hex=$(printf'%x\n' $num)
+(printf '%x\n' $DECIMAL
